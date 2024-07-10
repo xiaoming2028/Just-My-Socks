@@ -1,6 +1,6 @@
 # Just My Socks官网地址
 
-最新官网地址：[Just My Socks官网](https://justmysocks3.net/members/aff.php?aff=4355)
+### 最新官网地址：[Just My Socks官网](https://justmysocks3.net/members/aff.php?aff=4355)
 
 Just My Socks 是目前非常热门的Shadowsocks/V2ray服务商（机场），由搬瓦工官方推出，使用高速CN2及CN2 GIA线路。特别之处在于，当IP被墙后会自动切换节点，确保了速度和稳定性。
 
